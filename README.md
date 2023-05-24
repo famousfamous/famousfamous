@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @famousfamous
-- 👀 I’m interested in data analytics, software engingeering, UX/UI design, product development, IT automation, data science.
-- 🌱 I’m currently learning Software Engineering with ALX SE.
-- I know R, SQL, Tableau, Python, HTML
-- 💞️ I’m looking to collaborate on Python, C and HTML projects as wells as Data visualization.
+- 👀 I’m interested, nay, a crazy software engingeering, UX/UI design, product development, IT automation, data science, data analytics, IT support enthusiast and unrepentant technophile.
+- 🌱 I’m currently deeping my proficiency in full-stack Software Engineering with ALX SE.
+- I know HTML, CSS, Javascript, C, R, SQL, Tableau, Python, and a bit of Java 😜 
+- 💞️ I’m looking to collaborate on Python, JS, C and Front-end projects as wells as Data visualization.
 - 📫 You can reach via **writefamous@gmail.com** or *https://linkedin.com/in/famousfamous*
 
 <!---
